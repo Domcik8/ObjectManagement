@@ -1,0 +1,246 @@
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\ApplicationInsights.config
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\csc.exe
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\csc.exe.config
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\csc.rsp
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\csi.exe
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\csi.rsp
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.AppContext.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\vbc.exe
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\vbc.exe.config
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\vbc.rsp
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\VBCSCompiler.exe
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\ObjectManagement.dll.config
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\ObjectManagement.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\ObjectManagement.pdb
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Antlr3.Runtime.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\EntityFramework.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\EntityFramework.SqlServer.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Web.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.ApplicationInsights.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Newtonsoft.Json.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Helpers.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Mvc.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Optimization.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Razor.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Deployment.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Razor.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\WebGrease.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\EntityFramework.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\EntityFramework.SqlServer.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Helpers.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Mvc.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Optimization.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.Razor.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Deployment.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Razor.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Antlr3.Runtime.pdb
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Newtonsoft.Json.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.ApplicationInsights.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Web.xml
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.csprojResolveAssemblyReference.cache
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.dll
+c:\users\dominik lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.pdb
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation.resources
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.csproj.GenerateResource.Cache
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation1.resources
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation2.resources
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation3.resources
+C:\Users\Dominik Lisovski\documents\visual studio 2017\Projects\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation4.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\ApplicationInsights.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\csc.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\csc.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\csc.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\csi.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\csi.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\vbc.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\vbc.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\vbc.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\ObjectManagement.dll.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\ObjectManagement.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\ObjectManagement.pdb
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\EntityFramework.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Helpers.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Mvc.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Optimization.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Razor.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\WebGrease.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\EntityFramework.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Helpers.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Mvc.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Optimization.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.Razor.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation1.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation2.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation3.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation4.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.csproj.GenerateResource.Cache
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagement\ObjectManagement\obj\Debug\ObjectManagement.pdb
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\ApplicationInsights.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\csc.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\csc.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\csc.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\csi.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\csi.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\vbc.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\vbc.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\vbc.rsp
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\ObjectManagement.dll.config
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\ObjectManagement.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\ObjectManagement.pdb
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Antlr3.Runtime.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\EntityFramework.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.Web.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Newtonsoft.Json.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Helpers.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Mvc.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Optimization.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Razor.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\WebGrease.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\EntityFramework.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Helpers.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Mvc.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Optimization.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.Razor.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Newtonsoft.Json.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\bin\Microsoft.AI.Web.xml
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.csprojResolveAssemblyReference.cache
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation1.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation2.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation3.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.Migrations.Validation4.resources
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.csproj.GenerateResource.Cache
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.dll
+C:\Users\Dominik Lisovski\Desktop\ObjectManagementRepository\ObjectManagement\obj\Debug\ObjectManagement.pdb

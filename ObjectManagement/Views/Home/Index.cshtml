@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Object management</h1>
+</div>
+
+<p class="information">@ViewBag.Message</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Welcome to Object management</h2>
+        <p>
+            Object manager is a simple application that
+            demonstrates Entity Framework in ASP.NET MVC.
+        </p>
+        <p>
+            Tested functionality: registration, logging, validation, XSS defense, object deletion, completion, edition and creation.
+        </p>
+
+        <p>
+            @Html.ActionLink("Log in", "LogIn", "Principal")
+        </p>
+        <p>
+            @Html.ActionLink("Register", "Register", "Principal")
+        </p>
+    </div>
+</div>
